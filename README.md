@@ -38,7 +38,21 @@ let Jelle = {
 };
 ```
 ## 🌐 Socials:
+<p align="center">
+ <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=website&logoColor=white" alt="jelle" />
+ </a>
+ <a href="https://www.linkedin.com/in/jelle-vandriessche/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jelle"/>
+ </a>
+ <a href="https://instagram.com/jelle.codes" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jelle" />
+ </a> 
+</p>
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelle-vandriessche/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jelle.codes)
+-->
 
 <!--
 # 💻 Tech Stack:
