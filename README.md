@@ -16,7 +16,7 @@
 
 # 💫 About Me:
 
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<img width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 ```js client
 let Jelle = {
