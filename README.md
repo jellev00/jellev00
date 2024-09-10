@@ -31,7 +31,7 @@ let Jelle = {
     HTML: ["No frameworks 🌐"]
   },
   Other: {
-    Operating-systems: ["Windows 🪟"],
+    Operating-systems: ["Windows 🪟", "Apple 🍏"],
     Databases: ["MySQL 🐬", "MongoDB 🍃", "Firebase 🔥"]
   },
   Tools: ["VS Code ✍️", "Visual Studio 2022 🖥️", "Github 🐱", "Intellij IDEA 💡", "Docker 🐳"]
